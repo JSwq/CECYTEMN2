@@ -1,0 +1,40 @@
+*{
+    background-color: gray;
+}
+h1{
+  
+   font-weight: bold;
+   text-align: center;
+}
+h2{
+    
+    text-align: center;
+}
+h3{
+    text-align: justify;
+    
+}
+li{
+    list-style: none;
+    
+}
+.italic{
+    font-style: italic;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+}
+h4{
+    text-align: center;
+    
+}
+ul{
+    padding: 0;
+}
+#xdxd{
+    color: rgba(118, 180, 99, 0.603) !important;
+}
+#azul{
+    color: rgb(74, 121, 190);
+}
